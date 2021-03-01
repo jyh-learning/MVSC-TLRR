@@ -1,7 +1,9 @@
 # MVSC-TLRR
 The implementation of our IEEE TCSVT paper Multi-View Spectral Clustering Tailored Tensor Low-Rank Representation
 https://ieeexplore.ieee.org/document/9336710
+
 If you find the code useful, please cite our paper:
+
 @ARTICLE{9336710,
   author={Y. {Jia} and H. {Liu} and J. {Hou} and S. {Kwong} and Q. {Zhang}},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
